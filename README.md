@@ -121,7 +121,7 @@ These allow users to:
 ## 📸 Screenshots
 
 ### 🔹 Insurance Risk & Claims Analysis Dashboard
-![Insurance Risk & Claims Analysis Dashboard](./insurance_risk_claims_dashboard.png)
+![Insurance Risk & Claims Analysis Dashboard](./Screenshot 2026-01-12 142751.png)
 
 
 
