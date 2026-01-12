@@ -121,9 +121,9 @@ These allow users to:
 ## 📸 Screenshots
 
 ### 🔹 Insurance Risk & Claims Analysis Dashboard
-![Insurance Risk & Claims Analysis Dashboard](./screenshots/insurance_risk_claims_dashboard.png)
+![Insurance Risk & Claims Analysis Dashboard](./insurance_risk_claims_dashboard.png)
 
-> 📌 *Make sure the image is placed inside a `screenshots/` folder in your repository.*
+
 
 ---
 
